@@ -107,7 +107,7 @@ The emphasis on recall over accuracy is intentional, as it prioritizes minimizin
 
 ## Contributing
 
-Contributions are welcome! Please feel free to open issues or submit pull requests. For major changes, kindly discuss with the repository maintainers first.
+Contributions are welcome! Please feel free to open issues or submit pull requests. 
 
 ---
 
