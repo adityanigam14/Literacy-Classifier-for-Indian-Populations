@@ -121,4 +121,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - The [Microdata India](https://microdata.gov.in/nada43/index.php/catalog/151/data_dictionary) project for providing the dataset.
 - TensorFlow and FastAPI communities for excellent tools and documentation.
-- All contributors and testers who helped refine this application.
